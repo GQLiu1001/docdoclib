@@ -5,17 +5,17 @@ cssclasses:
   - homepage
 banner_x: 0.5
 ---
-# <div style="font-size: 28px;color:#2ECC71"> 🧪 BUILD SUCCESS</div>
+  # <div style="font-size: 28px;color:#2ECC71"> 🧪 Build Success</div>
+
 ---
 2025-07-29
 - [ ] 数据结构
 - [ ] 计算机网络
 - [ ] 操作系统
-- [ ] hot 100
----
+- [ ] hot100
+--- 
 2025-06-26
-- [x] 轻屿记项目
-- [x] 完善简历
+- [x] 完成轻屿记
 ---
 2025-06-06
-- [x] lqzc项目重构
+- [x] 重构lqzc

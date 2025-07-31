@@ -1,4 +1,7 @@
 {
   "promptDelete": false,
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "strictLineBreaks": true,
+  "foldIndent": true,
+  "livePreview": true
 }
