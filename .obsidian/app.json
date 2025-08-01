@@ -3,5 +3,8 @@
   "propertiesInDocument": "hidden",
   "strictLineBreaks": true,
   "foldIndent": true,
-  "livePreview": true
+  "livePreview": true,
+  "readableLineLength": false,
+  "showIndentGuide": false,
+  "smartIndentList": true
 }

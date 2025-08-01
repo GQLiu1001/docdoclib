@@ -2,8 +2,8 @@
   "showRibbon": false,
   "nativeMenus": false,
   "baseFontSizeAction": true,
-  "cssTheme": "",
+  "cssTheme": "Blue Topaz",
   "accentColor": "",
   "theme": "moonstone",
-  "baseFontSize": 19
+  "baseFontSize": 21
 }
